@@ -1,0 +1,1730 @@
+html{
+    scroll-behavior: smooth;
+ }
+ 
+ #main{
+     width: 100vw;
+ }
+ 
+ #nav-top {
+     width: 100%;
+     display: flex;
+     justify-content: center;
+     background-color:#F2F3F8 ;
+     margin: 0;
+ }
+ 
+ #nav-1 {
+     display: flex;
+     justify-content: flex-end;
+     background-color:#F2F3F8 ;
+     width: 960px;
+     height: 40px;
+ }
+ 
+ #icon-flex {
+     width: 374px;
+     display: flex;
+     justify-content: flex-end;
+     height: 40px;
+ }
+ 
+ 
+ .icons {
+     display: flex;
+     justify-content: center;
+     height: 19px;
+     width: 116px;
+     gap: 10px;
+     margin-top: 10px;
+ 
+ }
+ 
+ .icon-2 {
+     padding-left: 25px;
+ }
+ 
+ 
+ .para-names {
+     color: #505E6B;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px;
+     font-weight: bold;
+ }
+ 
+ 
+ #nav-holder{
+     width: auto;
+     height: 35px;
+     padding-bottom: 10px;
+ }
+ 
+ #nav-bar{
+     width: 593px;
+     height: 45px;
+     margin: 0px 26px;
+     padding: 0px 15px;
+     margin-top: 10px;
+ }
+ 
+ #nav-tools{
+     width: 560px;
+     height: 45px;
+     display: flex;
+     gap: 170px;
+ }
+ 
+ #navbar-1{
+     width: 623px;
+     height: 44px;
+     display: flex;
+     gap: 30px;
+ }
+ 
+ #logo{
+     width: 74px;
+     height: 46px;
+ }
+ 
+ #input-holder{
+     display: flex;
+     height: 43px;
+ }
+ 
+ #input{
+     width:426px ;
+     height: 42px;
+     padding: 0px 15px;
+     background-color: #ffffff;
+     border-radius: 5px;
+     border: none;
+     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+ }
+ 
+ #search-btn{
+     width: 50px;
+     height: 43px;
+     background-color: #7C44ff;
+     color: #ffffff;
+     padding: 5px 10px;
+     border-radius: 3px;
+     border: none;
+ }
+ 
+ #navbar-2{
+     width: 271px;
+     height: 28px;
+     margin-top: 5px;
+     display: flex;
+     justify-content: flex-start;
+     gap: 20px;
+     padding: 5px;
+ }
+ 
+ #login-btn{
+     width:66px;
+     height:28px;
+     background-color: #ffffff;
+     color: #7C44ff;
+     font-size: 13px;
+     font-family: 'PT Sans', sans-serif;
+     margin-right:15px;
+     padding: 6px 15px;
+     border: 1px solid #7C44ff ;
+     border-radius: 5px;
+     font-weight: bolder;
+ }
+ 
+ #Register-btn{
+     width: 83px;
+     height: 28px;
+     background-color: #7C44ff;
+     color: #ffffff;
+     font-family: 'PT Sans', sans-serif;
+     font-size: 13px;
+     font-weight: bolder;
+     margin-right:  30px;
+     padding: 6px 15px;
+     border-radius: 3px;
+     border: none;
+ }
+ 
+ #container{
+     width: 1005px;
+     height: 30px;
+     margin:0px 26px;
+     padding: 0px 15px;
+ }
+ 
+ #container-row{
+     width: 100%;
+     height: 30px;
+     display: flex;
+     justify-content: flex-start;
+     gap: 15px;
+ }
+ 
+ #cont-row2{
+     width: 452px;
+     height: 15px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     margin-left: 105px;
+     display: flex;
+     gap: 15px;
+ }
+ 
+ .container-paras{
+     width: 68px;
+     height: 15px;
+     font-size: 15px;
+     color: #505E6B;
+     font-family: 'PT Sans', sans-serif;
+     font-weight: bolder;
+     margin: 0;
+ }
+ 
+ #cont-para2{
+     width: 58px;
+     height: 14px;
+     font-size: 15px;
+     color: #505E6B;
+     font-family: 'PT Sans', sans-serif;
+     font-weight: medium ;
+     margin: 0;
+ }
+ 
+ #cont-para3{
+     width: 51px;
+     height:14px;
+     font-size: 15px;
+     color: #505E6B;
+     font-family: 'PT Sans', sans-serif;
+     font-weight: medium ;
+     margin: 0;
+ }
+ 
+ #cont-para4{
+     width: 75px;
+     height: 14px;
+     font-size: 15px;
+     color: #505E6B;
+     font-family: 'PT Sans', sans-serif;
+     font-weight: medium ;
+     margin: 0;
+ }
+ 
+ #cont-para5{
+     width: 53px;
+     height: 14px;
+     font-size: 15px;
+     color: #505E6B;
+     font-family: 'PT Sans', sans-serif;
+     font-weight: medium ;
+     margin: 0;
+ }
+ 
+ #cont-para6{
+     width: 52px;
+     height: 14px;
+     font-size: 13px;
+     color: #505E6B;
+     font-family: 'PT Sans', sans-serif;
+     font-weight: medium ;
+     margin: 0;
+ }
+ 
+ #nav3-main{
+     width: 998px;
+     height: 50px;
+ }
+ 
+ 
+ #container-border{
+     width: 100vw;
+     height: 50px;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ }
+ 
+ #nav-bar3{
+     width: 950px;
+     height: 50px;
+     margin: 0px 26px;
+     padding: 0px 15px;
+ }
+ 
+ #nav3-holder{
+     width: 1012;
+     height: 50px;
+     margin: 0;
+     display: flex;
+     justify-content:flex-start ;
+     gap: 5px;
+ }
+ 
+ #nav3-para1{
+     width: 39px;
+     height: 37px;
+     color: black;
+     font-family: 'PT Sans', sans-serif;
+     font-size: 13px;
+     background-color: #ffffff;
+     padding: 8px 10px 5px;
+     margin: 0;
+     font-weight: bolder;
+ }
+ 
+ #nav3-para2{
+     width:40px;
+     height: 37px;
+     color: black;
+     font-family: 'PT Sans', sans-serif;
+     font-size: 13px;
+     background-color: #ffffff;
+     padding: 8px 10px 5px;
+     margin: 0;
+     font-weight: bolder;
+ }
+ 
+ #nav3-para3{
+     width: 174px;
+     height: 37px;
+     color: black;
+     font-family: 'PT Sans', sans-serif;
+     font-size: 13px;
+     background-color: #ffffff;
+     padding: 8px 10px 5px;
+     margin: 0;
+     font-weight: bolder;
+ }
+ 
+ #nav3-para4{
+     width: 64px;
+     height: 37px;
+     color: black;
+     font-family: 'PT Sans', sans-serif;
+     font-size: 13px;
+     background-color: #ffffff;
+     padding: 8px 10px 5px;
+     margin: 0;
+     font-weight: bolder;
+ }
+ 
+ #nav3-para5{
+     width: 127px;
+     height: 37px;
+     color: black;
+     font-family: 'PT Sans', sans-serif;
+     font-size: 13px;
+     background-color: #ffffff;
+     padding: 8px 10px 5px;
+     margin: 0;
+     font-weight: bolder;
+ }
+ 
+ #nav3-para6{
+     width: 37px;
+     height: 37px;
+     color:black;
+     font-family: 'PT Sans', sans-serif;
+     font-size: 13px;
+     background-color: #ffffff;
+     padding: 8px 10px 5px;
+     margin: 0;
+     font-weight: bolder;
+ }
+ 
+ 
+ #slide-block{
+     width: 100vw;
+     height: 373px;
+ }
+ 
+ 
+ #btn-holder{
+     width: 230px;
+     margin-left: 550px;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ #prev{
+     width: 100px;
+     height: 35px;
+     background-color: #7C44ff;
+     color: #ffffff;
+     border-radius: 5px;
+     font-size: 30px;
+     border: none;
+ }
+ 
+ #next{
+     width: 100px;
+     height: 35px;
+     background-color: #7C44ff;
+     color: #ffffff;
+     border-radius: 5px;
+     font-size: 30px;
+     border: none;
+ }
+ 
+ #next:hover{
+     background-color: aqua;
+     transition: 1s;
+ }
+ 
+ #prev:hover{
+     background-color: aqua;
+     transition: 1s;
+ }
+ 
+ 
+  #work-container{
+     width: 1169px;
+     height: 600px;
+     margin-right: 26px;
+     margin-left: 26px;
+     padding: 20px 15px 40px;
+     margin-top: 40px;
+     display: flex;
+     gap: 20px;
+     background-color: #ffffff;
+ }
+ 
+ h1{
+     margin: 0;
+     width: 1150px;
+     height: 30px;
+     color: #232434;
+     font-size: 25px;
+     font-family: 'PT Sans', sans-serif;
+     text-align: center;
+     font-weight: bolder;
+     margin-bottom: 30px;
+     padding: 10px;
+     display: flex;
+     justify-content: center;
+ }
+ 
+ #logos{
+     display: flex;
+     gap: 40px;
+ }
+ 
+ #info{
+     width: 165px;
+     height: 174px;
+     padding: 15px;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ }
+ 
+ #info-logo{
+     width: 143px;
+     height: 40px;
+     padding: 10px;
+ }
+ 
+ #infosys{
+     width: 163px;
+     height: 108px;
+ } 
+ 
+ #tele{
+     width: 165px;
+     height: 174px;
+     padding: 15px;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ }
+ 
+ #tele-logo{
+     width: 143px;
+     height: 40px;
+     padding: 10px;
+ }
+ 
+ #teleperform{
+     width: 163px;
+     height: 108px;
+ }
+ 
+ #sbi{
+     width: 165px;
+     height: 174px;
+     padding: 15px;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ }
+ 
+ #Sbi{
+     width: 163px;
+     height: 108px;
+ }
+ 
+ #SBI-logo{
+     width: 143px;
+     height: 40px;
+     padding: 10px;
+ }
+ 
+ #cap{
+     width: 165px;
+     height: 174px;
+     padding: 15px;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ }
+ 
+ #capgemini{
+     width: 163px;
+     height: 108px;
+ }
+ 
+ #cap-logo{
+     width: 143px;
+     height: 40px;
+     padding: 10px;
+ }
+ 
+ #paint{
+     width: 165px;
+     height: 174px;
+     padding: 15px;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ }
+ 
+ #paints{
+     width: 163px;
+     height: 108px;
+ }
+ 
+ #paint-logo{
+     width: 143px;
+     height: 40px;
+     padding: 10px;
+ }
+ 
+ #card-container{
+     width: 928px;
+     height: 250px;
+     margin: auto;
+     padding: 30px;
+ }
+ 
+ #companies{
+     width: 930px;
+ }
+ 
+ h2{
+     width: 930px;
+     height: 30px;
+     margin: 0;
+     color: #232434;
+     font-size: 35px;
+     font-family: 'PT Sans', sans-serif;
+     text-align: center;
+     font-weight: bolder;
+     padding-top: 25px;
+     display: flex;
+     justify-content: space-evenly;
+ }
+ 
+ #cardimg-holder{
+     width: 930px;
+     height: 235px;
+     display: flex;
+     justify-content: center;
+     gap: 20px;
+     padding-top: 10px;
+ }
+ 
+ #images-holder{
+     width: 910px;
+     height: 215px;
+     padding: 10px;
+ }
+ 
+ #img-box{
+     width: 899px;
+     height: 205px;
+     background-color: #ffffff;
+     padding: 10px;
+     gap: 20px;
+ }
+ 
+ .image{
+     width: 93px;
+     height: 58px;
+     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+     gap: 20px;
+ }
+ 
+ #imgrow-1{
+     display: flex;
+     justify-content: center;
+     gap: 20px;
+     padding: 30px;
+ }
+ 
+ #imgrow-2{
+     width: 900px;
+     height: 96px;
+     display: flex;
+     justify-content: center;
+     gap: 20px;   
+ }
+ 
+ #View{
+     font-size: 14px;
+     width: 930px;
+     height: 19px;
+     color: #7C44ff;
+     font-weight: bolder;
+     margin: 15px 0px;
+     font-family: 'PT Sans', sans-serif;
+     display: flex;
+     justify-content: center;
+     text-decoration: none;
+ }
+ 
+ #early-applicant{
+     width: 1282px;
+     height: 365px;
+     background-color: #F4F2FF;
+     padding: 40px 0px;
+ }
+ 
+ #applicant-container{
+     width: 1188px;
+     height: 340px;
+     margin: 0px 28px;
+     padding: 0px 15px;
+ }
+ 
+ h2{
+     width: 930px;
+     height: 35px;
+     color: #232434;
+     font-size: 30px;
+     font-weight: bolder;
+     font-family: 'PT Sans', sans-serif;
+     text-align: center;
+     padding: 0;
+     margin-left: 45px;
+ }
+ 
+ #applicant-card1{
+     width: 1135px;
+     height: 264px;
+     padding: 25px 25px 15px;
+     display: flex;
+     overflow: hidden;
+     white-space: nowrap; 
+ 
+ }
+ 
+ #card1-main{
+     width: 1085px;
+     height: 240px;
+     padding: 25px 25px 15px;
+ }
+ 
+ #card-1{
+     width: 260px;
+     height: 175px;
+     background-color: #ffffff;
+     padding: 15px 15px 50px;
+     border-radius: 13px;
+     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+ }
+ 
+ #card1{
+     width: 260px;
+     height: 200px;
+ }
+ 
+ #card1-p1{
+     width: 200px;
+     height: 12px;
+     margin-left: 20px;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ #p1{
+     width: 18px;
+     height: 12px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+ }
+ #p2{
+     width: 52px;
+     height: 12px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+ }
+ 
+ #jobs-names{
+     width: 160px;
+     height: auto;
+     
+ }
+ 
+ h3{
+     margin: 0;
+     width: auto;
+     height: auto;
+     text-wrap: wrap;
+ }
+ 
+ 
+ #p4{
+     width: 260px;
+     height: 15px;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     color: #505E6B;
+     margin: 0;
+ }
+ 
+ #job-detail{
+     width: 260px;
+     height: 16px;
+     display: flex;
+     margin: 12px 0px;
+ }
+ 
+ #p5{
+     width: 123px;
+     height: 16px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px 15px;
+     font-weight: medium;
+ }
+ 
+ #p6{
+     width: 51px;
+     height: 16px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px 15px;
+     font-weight: medium;
+ }
+ 
+ #p7{
+     width: 67px;
+     height: 16px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px 15px;
+     font-weight: medium;
+ }
+ 
+ #job-request{
+     width: 235px;
+     height: 19px;
+     margin: 70px 0px 0px;
+     padding: 0px 15px;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ #p8{
+     width: 108px;
+     height: 19px;
+     color: #7C44ff;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+ }
+ 
+ #p9{
+     width: 44px;
+     height: 16px;
+     color: #7C44ff;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     padding: 1px 0px 1px 6px;
+     margin: 0;
+ }
+ 
+ #total-jobs{
+     width: 1200px;
+     height: 15px;
+     text-decoration: none;
+     display: flex;
+     justify-content: center;
+     color: #7C44ff;
+     font-weight: bolder;
+ }
+ 
+ #Remote-jobs{
+     width: 1282px;
+     height: 365px;
+     background-color: #F4F2FF;
+     padding: 40px 0px;
+ }
+ 
+ #remote-container{
+     width: 1188px;
+     height: 340px;
+     margin: 0px 28px;
+     padding: 0px 15px;
+ }
+ 
+ h2{
+     width: 930px;
+     height: 35px;
+     color: #232434;
+     font-size: 30px;
+     font-weight: bolder;
+     font-family: 'PT Sans', sans-serif;
+     text-align: center;
+     padding: 0;
+     margin-left: 45px;
+ }
+ 
+ #remote-card1{
+     width: 1135px;
+     height: 264px;
+     padding: 25px 25px 15px;
+     display: flex;
+     overflow: hidden;
+     white-space: nowrap;
+ 
+ }
+ 
+ #card1-main{
+     width: 1085px;
+     height: 240px;
+     padding: 25px 25px 15px;
+ }
+ 
+ #card-1{
+     width: 260px;
+     height: 175px;
+     background-color: #ffffff;
+     padding: 15px 15px 50px;
+     border-radius: 13px;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ }
+ 
+ #card1{
+     width: 260px;
+     height: 200px;
+ }
+ 
+ #card1-p1{
+     width: 200px;
+     height: 12px;
+     margin-left: 20px;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ #p1{
+     width: 18px;
+     height: 12px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+ }
+ #p2{
+     width: 52px;
+     height: 12px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+ }
+ 
+ #jobs-names{
+     width: 160px;
+     height: auto;
+     
+ }
+ 
+ h3{
+     margin: 0;
+     width: auto;
+     height: auto;
+     text-wrap: wrap;
+ }
+ 
+ 
+ #p4{
+     width: 260px;
+     height: 15px;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     color: #505E6B;
+     margin: 0;
+ }
+ 
+ #job-detail{
+     width: 260px;
+     height: 16px;
+     display: flex;
+     margin: 12px 0px;
+ }
+ 
+ #p5{
+     width: 123px;
+     height: 16px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px 15px;
+     font-weight: medium;
+ }
+ 
+ #p6{
+     width: 51px;
+     height: 16px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px 15px;
+     font-weight: medium;
+ }
+ 
+ #p7{
+     width: 67px;
+     height: 16px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px 15px;
+     font-weight: medium;
+ }
+ 
+ #job-request{
+     width: 235px;
+     height: 19px;
+     margin: 70px 0px 0px;
+     padding: 0px 15px;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ #p8{
+     width: 108px;
+     height: 19px;
+     color: #7C44ff;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+ }
+ 
+ #p9{
+     width: 44px;
+     height: 16px;
+     color: #7C44ff;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     padding: 1px 0px 1px 6px;
+     margin: 0;
+ }
+ 
+ #total-jobs{
+     width: 1200px;
+     height: 15px;
+     text-decoration: none;
+     display: flex;
+     justify-content: center;
+     color: #7C44ff;
+     font-weight: bolder;
+ }
+ 
+ #Walkin-Jobs{
+     width: 1282px;
+     height: 365px;
+     background-color: #F4F2FF;
+     padding: 40px 0px;
+ }
+ 
+ #walkin-container{
+     width: 1188px;
+     height: 340px;
+     margin: 0px 28px;
+     padding: 0px 15px;
+ }
+ 
+ h2{
+     width: 930px;
+     height: 35px;
+     color: #232434;
+     font-size: 30px;
+     font-weight: bolder;
+     font-family: 'PT Sans', sans-serif;
+     text-align: center;
+     padding: 0;
+     margin-left: 45px;
+ }
+ 
+ #Walkin-card1{
+     width: 1135px;
+     height: 264px;
+     padding: 25px 25px 15px;
+     display: flex;
+     overflow: hidden;
+     white-space: nowrap;
+ 
+ }
+ 
+ #card1-main{
+     width: 1085px;
+     height: 240px;
+     padding: 25px 25px 15px;
+ }
+ 
+ #card-1{
+     width: 260px;
+     height: 175px;
+     background-color: #ffffff;
+     padding: 15px 15px 50px;
+     border-radius: 13px;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ }
+ 
+ #card1{
+     width: 260px;
+     height: 200px;
+ }
+ 
+ #card1-p1{
+     width: 200px;
+     height: 12px;
+     margin-left: 20px;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ #p1{
+     width: 18px;
+     height: 12px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+ }
+ #p2{
+     width: 52px;
+     height: 12px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+ }
+ 
+ #jobs-names{
+     width: 160px;
+     height: auto;
+     
+ }
+ 
+ h3{
+     margin: 0;
+     width: auto;
+     height: auto;
+     text-wrap: wrap;
+ }
+ 
+ 
+ #p4{
+     width: 260px;
+     height: 15px;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     color: #505E6B;
+     margin: 0;
+ }
+ 
+ #job-detail{
+     width: 260px;
+     height: 16px;
+     display: flex;
+     margin: 12px 0px;
+ }
+ 
+ #p5{
+     width: 123px;
+     height: 16px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px 15px;
+     font-weight: medium;
+ }
+ 
+ #p6{
+     width: 51px;
+     height: 16px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px 15px;
+     font-weight: medium;
+ }
+ 
+ #p7{
+     width: 67px;
+     height: 16px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px 15px;
+     font-weight: medium;
+ }
+ 
+ #job-request{
+     width: 235px;
+     height: 19px;
+     margin: 70px 0px 0px;
+     padding: 0px 15px;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ #p8{
+     width: 108px;
+     height: 19px;
+     color: #7C44ff;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+ }
+ 
+ #p9{
+     width: 44px;
+     height: 16px;
+     color: #7C44ff;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     padding: 1px 0px 1px 6px;
+     margin: 0;
+ }
+ 
+ #total-jobs{
+     width: 1200px;
+     height: 15px;
+     text-decoration: none;
+     display: flex;
+     justify-content: center;
+     color: #7C44ff;
+     font-weight: bolder;
+ }
+ 
+ #Domain-Jobs{
+     width: 1282px;
+     height: 365px;
+     padding: 40px 0px;
+ }
+ 
+ #domain-container{
+     width: 1188px;
+     height: 385px;
+     margin: 0px 28px;
+     padding: 0px 15px;
+ }
+ 
+ h2{
+     width: 930px;
+     height: 35px;
+     color: #232434;
+     font-size: 30px;
+     font-weight: bolder;
+     font-family: 'PT Sans', sans-serif;
+     text-align: center;
+     padding: 0;
+     margin-left: 45px;
+ }
+ 
+ #domain-nav{
+     width: 1185px;
+     height: 33px;
+     margin: 10px 0px 0px;
+     display: flex;
+     justify-content: center;
+ }
+ 
+ #d1{
+     width: 33px;
+     height: 23px;
+     margin: 0px 6px 0px 5px;
+     padding: 5px 10px;
+     font-size: 15px;
+     color: #232434;
+     font-family: 'PT Sans', sans-serif;
+ }
+ 
+ #d2{
+     width: 57px;
+     height: 23px;
+     margin: 0px 6px 0px 0px;
+     padding: 5px 10px;
+     font-size: 15px;
+     color: #38404C;
+     font-family: 'PT Sans', sans-serif;
+ }
+ 
+ #d3{
+     width: 73px;
+     height: 23px;
+     margin: 0px 6px 0px 0px;
+     padding: 5px 10px;
+     font-size: 15px;
+     color: #38404C;
+     font-family: 'PT Sans', sans-serif;
+ }
+ 
+ #d4{
+     width: 85px;
+     height: 23px;
+     margin: 0px 6px 0px 0px;
+     padding: 5px 10px;
+     font-size: 15px;
+     color: #38404C;
+     font-family: 'PT Sans', sans-serif;
+ }
+ 
+ #d5{
+     width: 82px;
+     height: 23px;
+     margin: 0px 6px 0px 0px;
+     padding: 5px 10px;
+     font-size: 15px;
+     color: #38404C;
+     font-family: 'PT Sans', sans-serif;
+ }
+ 
+ #d6{
+     width: 41px;
+     height: 23px;
+     margin: 0px 6px 0px 0px;
+     padding: 5px 10px;
+     font-size: 15px;
+     color: #38404C;
+     font-family: 'PT Sans', sans-serif;
+ }
+ 
+ #d7{
+     width: 65px;
+     height: 23px;
+     margin: 0px 6px 0px 0px;
+     padding: 5px 10px;
+     font-size: 15px;
+     color: #38404C;
+     font-family: 'PT Sans', sans-serif;
+ }
+ 
+ #Domain-card1{
+     width: 1135px;
+     height: 264px;
+     padding: 25px 25px 15px;
+     display: flex;
+     overflow: hidden;
+     white-space: nowrap;
+ 
+ }
+ 
+ #card1-main{
+     width: 1085px;
+     height: 240px;
+     padding: 25px 25px 15px;
+ }
+ 
+ #card-1{
+     width: 260px;
+     height: 175px;
+     background-color: #ffffff;
+     padding: 15px 15px 50px;
+     border-radius: 13px;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ }
+ 
+ #card1{
+     width: 260px;
+     height: 200px;
+ }
+ 
+ #card1-p1{
+     width: 200px;
+     height: 12px;
+     margin-left: 20px;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ #p1{
+     width: 18px;
+     height: 12px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+ }
+ #p2{
+     width: 52px;
+     height: 12px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+ }
+ 
+ #jobs-names{
+     width: 160px;
+     height: auto;
+     
+ }
+ 
+ h3{
+     margin: 0;
+     width: auto;
+     height: auto;
+     text-wrap: wrap;
+ }
+ 
+ 
+ #p4{
+     width: 260px;
+     height: 15px;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     color: #505E6B;
+     margin: 0;
+ }
+ 
+ #job-detail{
+     width: 260px;
+     height: 16px;
+     display: flex;
+     margin: 12px 0px;
+ }
+ 
+ #p5{
+     width: 123px;
+     height: 16px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px 15px;
+     font-weight: medium;
+ }
+ 
+ #p6{
+     width: 51px;
+     height: 16px;
+     color: #505E6B;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px 15px;
+     font-weight: medium;
+ }
+ 
+ #job-request{
+     width: 235px;
+     height: 19px;
+     margin: 70px 0px 0px;
+     padding: 0px 15px;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ #p7{
+     width: 108px;
+     height: 19px;
+     color: #7C44ff;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+ }
+ 
+ #p8{
+     width: 44px;
+     height: 16px;
+     color: #7C44ff;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     padding: 1px 0px 1px 6px;
+     margin: 0;
+ }
+ 
+ #total-jobs{
+     width: 1200px;
+     height: 15px;
+     text-decoration: none;
+     display: flex;
+     justify-content: center;
+     color: #7C44ff;
+     font-weight: bolder;
+ }
+ 
+ #empty-container{
+     width: 1278px;
+     height: 100px;
+     background-color: #F4F2FF;
+     padding: 40px 0px;
+     margin: 0;
+ }
+ 
+ #Explore-main{
+     width: 1278px;
+     height: 536px;
+     padding: 30px 0px;
+ }
+ 
+ #explore-holder{
+     width: 1160px;
+     height: 456px;
+     margin: 0px 26px;
+     padding: 0px 15px;
+     display: flex;
+     gap: 50px;
+     overflow: hidden;
+     text-overflow: ellipsis;
+ }
+ 
+ h6{
+     font-size: 25px;
+     text-align: center;
+     font-family: 'PT Sans', sans-serif;
+     color: #232323;
+     margin: 0;
+     width: 930px;
+     height: 30px;
+     margin-bottom:25px;
+     margin: auto;
+ }
+ 
+ #Explore-card1{
+     width: 330px;
+     height: 374px;
+     padding: 26px 26px 15px;
+     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+     margin: 0;
+     margin-top: 12px;
+     border-radius: 5px;
+ }
+ 
+ #exp-holder{
+     width: 320px;
+     height: 367px;
+     background-color: #ffffff;
+     margin: 0;
+ }
+ 
+ #card1-img{
+     width: 320px;
+     height: 121px;
+ }
+ 
+ #exp-para{
+     width: 260px;
+     height: 200px;
+     padding: 20px 30px;
+ }
+ 
+ #pa-1{
+     width: 260px;
+     height: 25px;
+     margin: 0px 0px 5px;
+     font-size: 19px;
+     color: #38404C;
+     font-family: 'PT Sans', sans-serif;
+     font-weight: bold;
+ }
+ 
+ #pa-2{
+     width:260px;
+     height: 30px;
+     margin: 0px 0px 5px;
+     font-size: 12px;
+     color: #38404C;
+     font-family: 'PT Sans', sans-serif;
+     font-weight: bold;
+ }
+ 
+ #pa-3{
+     width:260px;
+     height: 20px;
+     margin: 0px 0px 5px;
+     font-size: 15px;
+     color: #38404C;
+     font-family: 'PT Sans', sans-serif;
+     font-weight: bold;
+ }
+ 
+ #exp-bottom{
+     width: 200px;
+     height: 15px;
+     display: flex;
+     justify-content: space-between;
+     padding: 0px 30px 20px;
+     margin: 0;
+     margin-top: 15px;
+     gap: 70px;
+ }
+ 
+ #pa-4{
+     width: 51px;
+     height: 33px;
+     color: #7C44ff;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+ }
+ 
+ #pa-5{
+     width: 155px;
+     height: 33px;
+     background-color: #7C44ff;
+     color: #ffffff;
+     font-size: 14px;
+     font-family: 'PT Sans', sans-serif;
+     text-align: center;
+     border: none;
+     border-radius: 3px;
+ }
+ 
+ #Template-container{
+     width: 1279px;
+     height: 300px;
+     background-color: #ffffff;
+     padding: 30px 0px 0px;
+ }
+ 
+ #template-holder{
+     width: 1160px;
+     height: 285px;
+     margin: 0px 26px;
+     padding: 0px 15px;
+ }
+ 
+ #tempcontent-holder{
+     width: 1160px;
+     height: 285px;
+     display: flex;
+     justify-content: flex-start;
+     gap: 60px;
+ }
+ 
+ #temp-card1{
+     width: 174px;
+     height: 159px;
+ }
+ 
+ #t-p1{
+     width: 174px;
+     height: 22px;
+     font-size: 18px;
+     color: #505E6B;
+     font-weight: medium;
+     margin: 0;
+     margin-bottom:10px ;
+ }
+ 
+ #t-p2{
+     width: 174px;
+     height: 20px;
+     display: flex;
+     gap: 30px;
+ }
+ 
+ #temp-card2{
+     width: 174px;
+     height: 285px;
+ }
+ 
+ #te-p1{
+     width: 174px;
+     height: 30px;
+     padding: 0px 0px 15px;
+     color: #38404C;
+     font-size: 13px;
+     font-family: 'PT Sans', sans-serif;
+     text-align: center;
+     font-weight: bolder;
+ }
+ 
+ .list{
+     width: 175px;
+     height: 265px;
+     justify-items: flex-start;
+     margin: 0;
+     padding: 0;
+ }
+ 
+ 
+ .t-card2{
+     width: 155px;
+     height: 16px;
+     color:#7C44ff;
+     font-size: 12px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0px 0px 10px 20px;
+     text-align: left;
+ }
+ 
+ #te-p2{
+     width: 85px;
+     height: 5px;
+     padding: 0px 0px 15px;
+     color: #38404C;
+     font-size: 13px;
+     font-family: 'PT Sans', sans-serif;
+     text-align: center;
+     font-weight: bolder;
+     margin: 30px 0px 0px;
+     padding: 0px 0px 15px;
+ }
+ 
+ .t-card3{
+     width: 155px;
+     height: 18px;
+     margin: 0px 0px 0px 20px;
+     color: #7C44ff;
+     font-size: 13px;
+     font-family: 'PT Sans', sans-serif;
+ }
+ 
+ #temp-card3{
+     width: 175px;
+     height: 231px;
+ }
+ 
+ #last-template{
+     width: 1175px;
+     height: 14px;
+     margin: 20px 26px;
+     padding: 0px 15px;
+     display: flex;
+     justify-content: space-evenly
+ }
+ 
+ #l-t1{
+     width: 54px;
+     height: 13px;
+     color: #505E6B;
+     font-size: 10px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+     padding: 0px 5px;
+ }
+ 
+ #l-t2{
+     width: 35px;
+     height: 13px;
+     color: #505E6B;
+     font-size: 10px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+     padding: 0px 5px;
+ }
+ 
+ #l-t3{
+     width: 51px;
+     height: 13px;
+     color: #505E6B;
+     font-size: 10px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+     padding: 0px 5px;
+ }
+ 
+ #l-t4{
+     width: 60px;
+     height: 13px;
+     color: #505E6B;
+     font-size: 10px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+     padding: 0px 5px;
+ }
+ 
+ #l-t5{
+     width: 72px;
+     height: 13px;
+     color: #505E6B;
+     font-size: 10px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+     padding: 0px 5px;
+ }
+ 
+ #l-t6{
+     width: 71px;
+     height: 13px;
+     color: #505E6B;
+     font-size: 10px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+     padding: 0px 5px;
+ }
+ 
+ #l-t7{
+     width: 79px;
+     height: 13px;
+     color: #505E6B;
+     font-size: 10px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+     padding: 0px 5px;
+ }
+ 
+ #l-t8{
+     width: 71px;
+     height: 13px;
+     color: #505E6B;
+     font-size: 10px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+     padding: 0px 5px;
+ }
+ 
+ #l-t9{
+     width: 97px;
+     height: 13px;
+     color: #505E6B;
+     font-size: 10px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+     padding: 0px 5px;
+ }
+ 
+ #l-t10{
+     width: 157px;
+     height: 13px;
+     color: #505E6B;
+     font-size: 10px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+     padding: 0px 5px;
+ }
+ 
+ #l-t11{
+     width:103px;
+     height: 13px;
+     color: #505E6B;
+     font-size: 10px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+     padding: 0px 5px;
+ }
+ 
+ #l-t12{
+     width: 150px;
+     height: 13px;
+     color: #505E6B;
+     font-size: 10px;
+     font-family: 'PT Sans', sans-serif;
+     margin: 0;
+     padding: 0px 5px;
+ }
